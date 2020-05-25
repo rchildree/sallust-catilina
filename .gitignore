@@ -1,2 +1,4 @@
 *.afpub
 *.pdf
+.DS_Store
+Sources/
